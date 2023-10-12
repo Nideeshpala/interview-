@@ -1,0 +1,205 @@
+.bag {
+    background-color: rgb(32, 6, 109);
+    font-family: 'Work Sans', sans-serif;
+}
+.block{
+    margin-top: 50px;
+}
+
+.navbar {
+
+    display: flex;
+    margin-top: 30px;
+
+}
+
+.haeder {
+    color: white;
+    font-size: 25px;
+}
+
+.over {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 625px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 150px;
+}
+
+.fl {
+    font-size: 15px;
+}
+
+.n1 {
+    margin-left: 30px;
+}
+
+.navbutton {
+    color: white;
+    background-color: rgb(239, 62, 97);
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    border: 1px;
+    font-size: 20px;
+    margin-top: -50px;
+
+
+
+
+}
+
+.navbutton1 {
+    color: white;
+    background-color: rgb(239, 62, 97);
+    border-radius: 50px;
+    margin-top: 20px;
+    width: 150px;
+    border: 1px;
+    height: 50px;
+    font-size: 20px
+
+
+
+}
+
+.n1f {
+    color: gray;
+}
+
+.block {
+    margin-left: 150px;
+}
+
+.content {
+    width: 420px;
+    color: white;
+    font-size: 30px;
+}
+
+.para {
+    width: 420px;
+}
+
+.signup {
+    width: 550px;
+    height: 650px;
+    background-color: white;
+    margin-left: 270px;
+    border-radius: 10px;
+
+}
+
+.main {
+    margin-top: 50px;
+    display: flex;
+
+
+}
+
+.signuphead {
+    color: rgb(32, 6, 109);
+    font-size: 50px;
+    text-align: center;
+}
+
+.check {
+    margin-left: 75px;
+    margin-top: 29px;
+    width: 20px;
+    height: 20px;
+    
+
+}
+.inpg{
+    margin-top: -30px;
+
+}
+
+.inp1 {
+    border-radius: 50px;
+    margin-top: 25px;
+    width: 350px;
+    height: 50px;
+    margin-left: 75px;
+    font-size: 25px;
+    padding-left: 50px;
+    border-color: gray;
+ 
+  
+
+}
+
+.cks {
+    margin-left: 15px;
+}
+
+.sign {
+    background-color: rgb(32, 6, 109);
+    margin-top: 50px;
+    border-radius: 50px;
+    width: 400px;
+    height: 50px;
+    color: white;
+    margin-left: 75px;
+    font-size: 20px;
+}
+
+.line {
+    display: flex;
+}
+
+.hl1 {
+    border: 1px;
+    background-color: rgb(169, 168, 168);
+    height: 1px;
+    width: 175px;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 70px;
+
+
+}
+.hl2 {
+    border: 1px;
+    background-color: rgb(169, 168, 168);
+    height: 1px;
+    width: 175px;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left:25px;
+
+
+}
+
+
+.hlblock {
+    display: flex;
+    margin-top: 25px;
+}
+
+.or {
+    margin-left: 25px;
+}
+.login{
+    background-color:rgb(22, 153, 228);
+    margin-top: 20px;
+    border-radius: 50px;
+    width: 400px;
+    height: 50px;
+    color: white;
+    margin-left: 75px;
+    font-size: 20px;
+border: 1px;
+}
+.lasttext{
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+}
+.lasttext a{
+    color: rgb(22, 228, 228);
+    text-decoration: none;
+}
